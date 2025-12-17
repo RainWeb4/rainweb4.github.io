@@ -36,7 +36,7 @@ web4_doc/
 | ai-agent.github.io         | AI                 | [https://github.com/rainweb4/ai-agent.github.io](https://github.com/rainweb4/ai-agent.github.io)          | 🔴 未开启   |
 | ai.github.io               | AI知识库              | [https://github.com/rainweb4/ai.github.io](https://github.com/rainweb4/ai.github.io)                | 🔴 未开启   |
 | utils-lib.github.io        | 工具收录库              | [https://github.com/rainweb4/utils-lib.github.io](https://github.com/rainweb4/utils-lib.github.io)         | 🔴 未开启   |
-| open-recruitment        | 全球公开招聘信息库-招聘方自行提供             | [https://github.com/RainWeb4/open-recruitment.github.io](https://github.com/rainWeb4/open-recruitment.github.io)         | 🔴 未开启   |
+| open-recruitment        | 全球公开招聘信息库-招聘方自行提供             | [https://github.com/rainWeb4/open-recruitment.github.io](https://github.com/rainWeb4/open-recruitment.github.io)         | 🔴 未开启   |
 
 > 💡 提示：点击“路径”列中的链接即可在新标签页中打开对应网站。
 ---
